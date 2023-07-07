@@ -1,0 +1,14 @@
+# NPM dependencies
+node_modules/
+
+# Editor support
+.merlin
+
+# Generated JS files
+*.js
+
+# Build output
+*/lib/bs/
+
+# Exercism meta data
+.exercism/
